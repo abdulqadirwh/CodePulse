@@ -1,4 +1,4 @@
-# ⚡ CodePulse – Realtime HTML/CSS/JS Editor mit Neon UI
+> ⚡ CodePulse – Realtime HTML/CSS/JS Editor mit Neon UI
 
 | ![Status](https://img.shields.io/badge/Status-AKTIV-blue?style=for-the-badge&logo=github) | ![Release](https://img.shields.io/badge/RELEASE-IN%20PROGRESS-%23FFA500?style=for-the-badge&logo=git) | ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![VanillaJS](https://img.shields.io/badge/Vanilla_JS-%23F0DB4F?style=for-the-badge&logo=javascript&logoColor=black) |
 |---|---|---|---|---|---|
