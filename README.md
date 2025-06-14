@@ -7,8 +7,8 @@
 <br>
 
 > ⚡ CodePulse – Realtime HTML/CSS/JS Editor mit Neon UI
-   - **CodePulse** ist ein stilvoller, Code-Editor für HTML, CSS und JavaScript mit Live-Vorschau, Fortschrittsanzeige und differenzierten Editoren.  
-     - Er wurde speziell für Entwickler/innen, Designer/innen und Lernende konzipiert – schnell, und vollständig lokal ausführbar.
+   - **CodePulse** ist ein stilvoller, Code-Editor für HTML, CSS und JavaScript mit Live-Vorschau, Fortschrittsanzeige und Farblich differenzierten Editoren.  
+     - Er wurde speziell für Entwickler/innen, Designer/innen und Lernende konzipiert – schnell, übersichtlich und vollständig lokal ausführbar.
 
 <br>
 
