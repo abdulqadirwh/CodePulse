@@ -1,0 +1,79 @@
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(-45deg, #0f0c29, #302b63, #24243e, #1e1e2f);
+  background-size: 400% 400%;
+  animation: gradientBG 20s ease infinite;
+  color: #e0e0e0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  flex-direction: column;
+}
+
+@keyframes gradientBG {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+.container {
+  width: 90%;
+  max-width: 1200px;
+  text-align: center;
+}
+
+h1 {
+  color: #00fff7;
+  margin-bottom: 20px;
+}
+
+.editor-container {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+textarea {
+  width: 30%;
+  height: 200px;
+  background: #1e1e2f;
+  border: 1px solid #00fff7;
+  color: #00fff7;
+  padding: 10px;
+  font-family: monospace;
+  font-size: 14px;
+  resize: none;
+}
+
+iframe {
+  width: 100%;
+  height: 300px;
+  border: none;
+  margin-top: 10px;
+  background: white;
+}
+
+.buttons button {
+  background: #00fff7;
+  border: none;
+  color: #1e1e2f;
+  padding: 10px 20px;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 6px;
+  transition: transform 0.2s ease;
+}
+
+.buttons button:hover {
+  transform: scale(1.05);
+}
+
+#progress {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #aaa;
+}

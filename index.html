@@ -1,0 +1,26 @@
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CodePulse – Realtime Editor (Blob-Version)</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>CodePulse Editor</h1>
+    <div class="editor-container">
+      <textarea id="htmlEditor" placeholder="HTML-Code"></textarea>
+      <textarea id="cssEditor" placeholder="CSS-Code"></textarea>
+      <textarea id="jsEditor" placeholder="JS-Code"></textarea>
+    </div>
+    <div class="buttons">
+      <button onclick="updatePreview()">🔁 Vorschau aktualisieren</button>
+    </div>
+    <iframe id="preview"></iframe>
+    <div id="progress">Fortschritt: 0 Zeichen</div>
+  </div>
+  <script src="js/editor.js"></script>
+</body>
+</html>
